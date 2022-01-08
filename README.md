@@ -1,2 +1,2 @@
 # Pyg-Latin-Translator
-Basic Translator to convert any word into "Pig Latin"
+Basic Translator to convert any word into Pig Latin
